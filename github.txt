@@ -1,2 +1,3 @@
 名字：cjm-spec
 密码：cjmcjm1234
+远程仓库：https://github.com/cjm-spec/cjm_Rep.git
